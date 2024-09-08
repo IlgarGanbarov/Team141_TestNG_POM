@@ -39,6 +39,10 @@ public class C02_PozitifLogintesti {
         Driver.quitDriver();
         // 6- Basarili olarak giris yapilabildigini test edin
 
+        System.out.println("------------------------------------------");
+
+        System.out.println("Merhaba Dunya");
+
 
     }
 }
